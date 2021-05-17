@@ -1,0 +1,13 @@
+{
+  "hit": {
+    "base": 10,
+    "crit": 20,
+    "critChance": 0.1
+  },
+  "smash": {
+    "base": 20,
+    "crit": 50,
+    "critChance": 0.15,
+    "cooldown": 1
+  }
+}
